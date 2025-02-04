@@ -30,13 +30,12 @@
 Para instalar y ejecutar **Nebula**:
 
 1. **Descargar la APK:** Descarga la última versión desde la [página de lanzamientos](#).
-o
-1. **Clonar el repositorio para desarrolladores:**
+2. **Clonar el repositorio para desarrolladores:**
    ```bash
-   git clone https://github.com/tuusuario/nebula.git
+   git clone https://github.com/Andoni5/nebula.git
    cd nebula
    ```
-2. **Abrir en Android Studio:** Abre el proyecto en **Android Studio** y sincroniza el proyecto.
+3. **Abrir en Android Studio:** Abre el proyecto en **Android Studio** y sincroniza el proyecto.
 
 ---
 
