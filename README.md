@@ -1,6 +1,6 @@
 # Nebula 🚀
 
-**Nebula** es un clon de *Jetpack Joyride* ambientado en el espacio, donde el jugador controla a un astronauta que debe esquivar agujeros negros y obstáculos. ***Nebula*** combina la acción y la física de desplazamiento lateral con una temática espacial única.
+**Nebula** es juego inspirado en *Jetpack Joyride* ambientado en el espacio, donde el jugador controla a un astronauta que debe esquivar agujeros negros y obstáculos. ***Nebula*** combina la acción y la física de desplazamiento lateral con una temática espacial única.
 
 ---
 
